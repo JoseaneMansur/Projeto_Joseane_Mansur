@@ -15,4 +15,6 @@ public class classeD {
         System.out.println("md2");
     }
 
+    public void md4(){
+        System.out.println("md4");
 }
