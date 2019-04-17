@@ -34,4 +34,5 @@ public class classeA {
     public void ma3(){
         System.out.println("Alteração a classe A partir do clone");
     }
+    
 }
