@@ -6,6 +6,7 @@ public class classeC {
     private String C1;
     private int C2;
     
+    
     public void mc1(){
         System.out.println("mc1");
     }
