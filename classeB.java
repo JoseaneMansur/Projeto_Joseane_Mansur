@@ -30,4 +30,8 @@ public class classeB {
     public void mb2(){
         System.out.println("mb2");
     }
+    
+    public void mb3(){
+        System.out.println("mb3");
+    }
 }
