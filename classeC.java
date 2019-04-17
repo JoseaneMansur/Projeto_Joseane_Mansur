@@ -10,7 +10,6 @@ public class classeC {
     public void mc1(){
         System.out.println("mc1");
     }
-    
     public void mc2(){
         System.out.println("mc2");
     }
