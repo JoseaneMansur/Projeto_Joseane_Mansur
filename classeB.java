@@ -14,7 +14,6 @@ public class classeB {
     public float getB2() {
         return B2;
     }
-    
 
     public void setB1(int B1) {
         this.B1 = B1;
