@@ -10,7 +10,6 @@ public class classeA {
     public int getA1() {
         return A1;
     }
-    
 
     public float getA2() {
         return A2;
