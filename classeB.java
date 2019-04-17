@@ -34,4 +34,5 @@ public class classeB {
     public void mb3(){
         System.out.println("mb3");
     }
+    
 }
